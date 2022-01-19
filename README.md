@@ -25,13 +25,13 @@ License CC BY-NC-SA 4.0
 ## Data Visualization & Findings
 * Tableau was selected for this project for showcase, but similar visualiazations can be performed in Power BI, and other BI tools as well.
 
-* Forms dashboard was to demonstrate the various types of data visuals out there for training purposes only. [Forms_Dashboard](https://public.tableau.com/views/2022-0118Forms_Dashboard/Forms_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+* Forms dashboard was to demonstrate the various types of data visuals out there for training purposes only. [Forms_Dashboard](https://public.tableau.com/views/2022-0119Forms_Dashboard/Forms_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
 ![Forms.png](Readme_Images/Forms.png)
 
 
-* Tasks dashboard delves into an elevated analysis of the Task dataset. Visit it here: [Tasks_Dashboard](https://public.tableau.com/views/2022-0118Tasks_Dashboard/Tasks_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+* Tasks dashboard delves into an elevated analysis of the Task dataset. Visit it here: [Tasks_Dashboard](https://public.tableau.com/views/2022-0119Tasks_Dashboard_16426117997920/Tasks_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
     * The various high-interest filters such as 'Over Due', 'Priority', 'Status', and 'Types' of Tasks available in this dataset. The viewer can play around with the filters for an interactive discovery of the two visuals presented on the dashboard.
 
