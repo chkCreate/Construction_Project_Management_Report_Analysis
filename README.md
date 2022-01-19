@@ -28,7 +28,7 @@ License CC BY-NC-SA 4.0
 * Forms dashboard was to demonstrate the various types of data visuals out there for training purposes only. [Forms_Dashboard](https://public.tableau.com/views/2022-0118Forms_Dashboard/Forms_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 
-![Forms.png](Readme_Images/Forms.PNG)
+![Forms.png](Readme_Images/Forms.png)
 
 
 * Tasks dashboard delves into an elevated analysis of the Task dataset. Visit it here: [Tasks_Dashboard](https://public.tableau.com/views/2022-0118Tasks_Dashboard/Tasks_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -40,7 +40,7 @@ License CC BY-NC-SA 4.0
     * 'Tasks_Type Priority' visual displays the higher 'Priority' items that increase in size with the count of 'Types'. Findings suggest that Quality and Safety Notices make up the majority of the higher priority and volume size of the Tasks datase.t
 
 
-![Tasks.png](Readme_Images/Tasks.PNG)
+![Tasks.png](Readme_Images/Tasks.png)
 
 
 ---
