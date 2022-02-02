@@ -25,23 +25,23 @@ License CC BY-NC-SA 4.0
 ## Data Visualization & Findings
 * Tableau was selected for this project for showcase, but similar visualiazations can be performed in Power BI, and other BI tools as well.
 
-* Forms dashboard was to demonstrate the various types of data visuals out there for training purposes only. [Forms_Dashboard](https://public.tableau.com/views/2022-0119Forms_Dashboard/Forms_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+* Forms and Tasks data were explored as a story to demonstrate the various types of data visuals out there for training purposes only. Visit it here: [Story](https://public.tableau.com/views/2022-0201CPR_Story/ConstructionFormsTask?:language=en-US&:display_count=n&:origin=viz_share_link).
 
+### Forms Data Visualization
+* See the first two pages of the Story to find exploratory analysis of the Forms data set.
 
-![Forms.png](Readme_Images/Forms.png)
+![Forms_1.png](Readme_Images/Forms_1.png)
 
+### Tasks Data Visualization
+* See the last two pages of the Story to find exploratory analysis of the Forms data set.
 
-* Tasks dashboard delves into an elevated analysis of the Task dataset. Visit it here: [Tasks_Dashboard](https://public.tableau.com/views/2022-0119Tasks_Dashboard_16426117997920/Tasks_Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+![Tasks_1.png](Readme_Images/Tasks_1.png)
 
     * The various high-interest filters such as 'Over Due', 'Priority', 'Status', and 'Types' of Tasks available in this dataset. The viewer can play around with the filters for an interactive discovery of the two visuals presented on the dashboard.
 
     * 'Tasks_Type Priority_2' visual explores the 'Types' (count indicate by size) and 'Priority' (marked by color) from when the were 'Created' to when the 'Status Changed'. Use the filters or highlight the desired criteria to track the progress.
 
     * 'Tasks_Type Priority' visual displays the higher 'Priority' items that increase in size with the count of 'Types'. Findings suggest that Quality and Safety Notices make up the majority of the higher priority and volume size of the Tasks datase.t
-
-
-![Tasks.png](Readme_Images/Tasks.png)
-
 
 ---
 
@@ -50,7 +50,6 @@ License CC BY-NC-SA 4.0
 * Employed Python pandas and numpy skills, and data cleansing methods.
 
 * Used Tableau to demonstrate exploratory insights.
-
 
 ## Notes
 
