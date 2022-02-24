@@ -37,11 +37,11 @@ License CC BY-NC-SA 4.0
 
 ![Tasks_1.png](Readme_Images/Tasks_1.png)
 
-    * The various high-interest filters such as 'Over Due', 'Priority', 'Status', and 'Types' of Tasks available in this dataset. The viewer can play around with the filters for an interactive discovery of the two visuals presented on the dashboard.
+* The various high-interest filters such as 'Over Due', 'Priority', 'Status', and 'Types' of Tasks available in this dataset. The viewer can play around with the filters for an interactive discovery of the two visuals presented on the dashboard.
 
-    * 'Tasks_Type Priority_2' visual explores the 'Types' (count indicate by size) and 'Priority' (marked by color) from when the were 'Created' to when the 'Status Changed'. Use the filters or highlight the desired criteria to track the progress.
+* 'Tasks_Type Priority_2' visual explores the 'Types' (count indicate by size) and 'Priority' (marked by color) from when the were 'Created' to when the 'Status Changed'. Use the filters or highlight the desired criteria to track the progress.
 
-    * 'Tasks_Type Priority' visual displays the higher 'Priority' items that increase in size with the count of 'Types'. Findings suggest that Quality and Safety Notices make up the majority of the higher priority and volume size of the Tasks datase.t
+* 'Tasks_Type Priority' visual displays the higher 'Priority' items that increase in size with the count of 'Types'. Findings suggest that Quality and Safety Notices make up the majority of the higher priority and volume size of the Tasks datase.t
 
 ---
 
